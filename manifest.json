@@ -1,0 +1,10 @@
+{
+    "name": "LALIGA FÚTBOL",
+    "short_name": "LALIGA",
+    "description": "Página escolar informativa sobre la Liga Española de fútbol.",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#071014",
+    "theme_color": "#20e0cf",
+    "lang": "es"
+}
